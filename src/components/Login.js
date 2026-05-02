@@ -39,9 +39,9 @@ export default function Login() {
           overflow: 'hidden', display: 'flex', alignItems: 'center', justifyContent: 'center',
           border: `2px solid ${activeColor}44`, transition: 'border-color 0.4s, box-shadow 0.4s',
         }}>
-          <img src="/icon.png" alt="FRAME" style={{ width: '100%', height: '100%', objectFit: 'contain' }} />
+          <img src="/icon.png" alt="FRAMEE" style={{ width: '100%', height: '100%', objectFit: 'contain' }} />
         </div>
-        <h1 style={{ color: 'white', fontSize: '24px', fontWeight: 800, letterSpacing: '-0.5px' }}>مكتب فريم الهندسي</h1>
+        <h1 style={{ color: 'white', fontSize: '24px', fontWeight: 800, letterSpacing: '-0.5px' }}>مكتب فريمي الهندسي</h1>
         <p style={{ color: 'rgba(255,255,255,0.5)', fontSize: '14px', marginTop: '6px' }}>نظام الإدارة الداخلي</p>
       </div>
 
@@ -138,7 +138,7 @@ export default function Login() {
       </div>
 
       <p style={{ color: 'rgba(255,255,255,0.2)', fontSize: '12px', marginTop: '32px', textAlign: 'center' }}>
-        مكتب فريم الهندسي © 2025
+        مكتب فريمي الهندسي © 2025
       </p>
     </div>
   );

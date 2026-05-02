@@ -3,13 +3,13 @@ import { AuthProvider } from '@/hooks/useAuth';
 import AppWrapper from '@/components/AppWrapper';
 
 export const metadata = {
-  title: 'مكتب فريم الهندسي',
+  title: 'مكتب فريمي الهندسي',
   description: 'نظام إدارة المكتب الهندسي',
   manifest: '/manifest.json',
   appleWebApp: {
     capable: true,
     statusBarStyle: 'default',
-    title: 'مكتب فريم',
+    title: 'مكتب فريمي',
   },
 };
 

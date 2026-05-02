@@ -45,7 +45,7 @@ export function useData() {
         const initialData = { 
           clients: [], tasks: [], invoices: [], offers: [],
           settings: { 
-            companyName: "مكتب فريم الهندسي",
+            companyName: "مكتب فريمي الهندسي",
             services: ['تصميم معماري', 'إشراف هندسي', 'رفع مساحي', 'استشارات هندسية', 'تقرير فني']
           } 
         };
